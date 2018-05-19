@@ -1,6 +1,6 @@
 [package]
 name = "brute_force"
 version = "0.1.0"
-authors = ["kouji <kouji1985@hotmail.com>"]
+authors = ["or1ko"]
 
 [dependencies]
